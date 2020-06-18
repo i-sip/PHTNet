@@ -8,7 +8,9 @@
 ## Implementation Details
 
 1. Please refere to the file `spec-file.txt` to creat a Python environment. On Anaconda, run the following script:
+
 `conda create --name myenv --file spec-file.txt`
+
 2. Construct a tensorflow `model` according to:
 ```ruby
 num_inputs = 1
